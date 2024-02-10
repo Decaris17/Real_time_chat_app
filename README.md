@@ -1,9 +1,1 @@
-# Snappy - Chat Application 
-
-
-
-![login page](./images/snappy_login.png)
-
-![home page](./images/snappy.png)
-
-
+# Real-Time Chat Application using MERN stack and Socket.IO
